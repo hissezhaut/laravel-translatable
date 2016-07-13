@@ -8,6 +8,11 @@
             "name": "Dimitrios Savvopoulos",
             "email": "ds@dimsav.com",
             "homepage": "http://dimsav.com"
+        },
+        {
+            "name": "Hissez Haut",
+            "email": "contact@hissez-haut.com",
+            "homepage": "http://hissez-haut.com"
         }
     ],
     "require": {
@@ -20,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dimsav\\Translatable\\": "src/Translatable/"
+            "HissezHaut\\Translatable\\": "src/Translatable/"
         },
         "classmap": [
             "tests"
